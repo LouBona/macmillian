@@ -3,7 +3,7 @@ Quiz code entry.
 
 As I read the assignment, it was essentially download the Spring REST tutorial and enhance to access an H2 db. This is how I would normally start a real-world project. Once ideas are worked out this prototype may become obsolete, but it's a good way to start.
 
-To run from the command line using default port of 8090:
+To run from the command line using default port of 8090 (set in src.main/resources/application.properties):
 > java -jar build/libs/simple-movie-api-0.1.0.jar
 
 To change the port at start up:
